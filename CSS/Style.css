@@ -1,0 +1,82 @@
+body{
+    background-color: #faf5ed;
+} h3{
+    color: #a33a47;
+} article{
+    font-family:  "Libre Franklin", sans-serif;
+    font-style: normal;
+    text-align: justify;
+} .jenis_kelamin{
+    font-family: "Libre Franklin", sans-serif;
+} .jenis_klmn{
+    margin-left: 7px;
+} .main-header{
+    text-align: center;
+    font-family: poppins;
+    color: #a33a47;
+
+} main{
+    display: flex;
+    justify-content: space-around;
+
+} form{
+    background-color: #f2e3ba;
+    padding: 15px;
+    border-radius: 15px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+} .form_result{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: large;
+} .form_end{
+    text-align: center;
+    font-size: large;
+} section{
+    width: 40%;
+} .jenis_kelamin{
+    margin-bottom: 20px;
+    font-size: 17px;
+
+} .form_input{
+    padding: 7px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+} .button_color{
+    display: flexbox;
+    padding: 2px;
+    border-radius: 4px;
+    background-color: #a33a47;
+    max-width: 200px;
+    height: 30px;
+    width: 50%;
+    border: none;
+    color: aliceblue;
+
+} .hitung_bmi{
+    padding: 2px;
+    border-radius: 4px;
+    background-color: #a33a47;
+    height: 30px;
+    width: 90px;
+    border: none;
+    color: aliceblue;
+    margin-top: 7px;
+} .button_reset{
+    border-radius: 4px;
+    height: 27px;
+    width: 70px;
+    border: 1px solid;
+} input[type="number"]{
+    max-width: initial;
+    width: 100%;
+    height: 25px;
+    border-radius: 7px;
+}
